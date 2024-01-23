@@ -1,6 +1,7 @@
 # Chapter 2 PRIME NUMBERS
 
-LESSON OVERVIEW
+# LESSON OVERVIEW
+
   Prime numbers, the building blocks of integers have been studied extensively over the centuries. Being able to present an integer uniquely as product of primes is the main reason behind the whole theory of numbers  and behind the interesting results in this theory. Many interesting theorems, applications and conjectures have been formulated based on the properties of prime numbers. In this chapter, we present methods to determine whether a number is prime or composite using ancient Greek method invented by Erastosthenes. We also show that there are infinitely many prime numbers. We then proceed to show that every integer can be written uniquely as a product of primes. We introduce as well the concept of diophantine equations where integer solutions from given equations are determined using the greatest common divisor. We then mention the prime number theorem without giving a proof of course in addition to other conjectures and major results related to prime numbers.
   
   # 2.1: The Seive of Erastothenes
