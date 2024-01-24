@@ -33,4 +33,4 @@
     Notice that a < n and as a result since n is minimal, a must have prime divisor which will also be a divisor of n, if n is composite integer, then n has a prime factor not exceeding $\sqrt n $. Since n is composite, then n = ab, where a and b are integers with $1 \lt a \le b \lt n$.                   
 
 
-  
+$\sqrt{n}$  
