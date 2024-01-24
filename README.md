@@ -32,7 +32,7 @@
     The seive of Eratosthenes is an ancient method of finding prime numbers up to a specified integer. This method was invented by the ancient Greek mathematician Eratosthenes. There are several other method to used to determine whether a number is prime composite. We first present a lemma that will be needed in proof of several theorems.
     Every integer greater than one has a prime divisor. We present the proof of this lemma by contradiction. Suppose that there is a greater that one no prime divisor. Since the set of integers with elements greater than one with no prime divisors is non empty, then by the well ordering principle there is a least positive integer n greater than one that has no prime divisors. Thus n is composite since n divides n. Hence,
                         n= ab with 1 \lt a \lt n and 1 \lt b \lt n.
-    Notice that a < n and as a result since n is minimal, a must have prime divisor which will also be a divisor of n, if n is composite integer, then n has a prime factor not exceeding \sqrt n. Since n is composite, then n = ab, where a and b are integers with 1 \lt a \le b \lt n.                   
+    Notice that a < n and as a result since n is minimal, a must have prime divisor which will also be a divisor of n, if n is composite integer, then n has a prime factor not exceeding \sqrt n. Since n is composite, then n = ab, where a and b are integers with $1 \lt a \le b \lt n$.                   
 
 
   
